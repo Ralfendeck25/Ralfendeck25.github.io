@@ -39,11 +39,11 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ralfendeck25&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Ralfendeck25's github-readme-stats">
   </a>
 
-    
   <a href="https://github.com/Ralfendeck25?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
-  </a>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ralfendeck25&theme=shadow-red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="github-readme-streak-stats">
+</a>
+
+ 
 <br/>
 
 
@@ -197,6 +197,11 @@ while alive:
 ##  <img src="https://img.shields.io/badge/🌍-World-blue?style=for-the-badge" alt="Earth Logo" /> 📌 Project
 
 
+![loading-15146](https://github.com/user-attachments/assets/3f7d40ce-fc49-4850-8a6f-ae99a51bb371)
+
+
+
+<!--
 
 | Project | Description | Built with |
 | ------- | ----------- | ---------- |
@@ -211,7 +216,7 @@ while alive:
 |[Solana Nft Multi Staking](https://github.com/Ralfendeck25/nft-multi-staking-solana-react)|Barnyard NFT Staking, Land, Animal, Farmer, Solana, $Wheat token.|React, Web3, Rust|
 |[My Voice](https://github.com/Ralfendeck25/my-voice)|An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language.|Java, TextToSpeech|
 </p>
-
+-->
 
 ### 🚀 Linguagens Mais Usadas
 
