@@ -1,21 +1,18 @@
-# M33T-WarmStorm ![image](https://github.com/user-attachments/assets/f7b94d90-862c-4161-b8b1-35b55d29fba4)
-
 <p align="center">
-    <a href="http://Ralfendeck25.com" target="_blank">
-        <img src="https://github.com/Ralfendeck25/Ralfendeck25/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image=wtf-smile">
-    </a>
+  <img src="https://cdn.pixabay.com/gifs/2023/11/18/01/21/14073.gif" alt="GIF de programmeur" width="200"/>
 </p>
+
 
 
 
 <p align="center">
   <a href="https://github.com/Ralfendeck25/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=COMPUTER%20SCIENCE%20;ETHICAL%20HACKER%20;FULL-STACK%20DEV%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;9%2B%20MONTH's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=00FFFF&vCenter=true&pause=1000&size=23" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20My%20name%20is%20Peterson!;You%20are%20very%20Welcome;I%20am%20an%20Ethical%20Hacker;Student%20of%20Computer%20Science;Full-Stack%20Dev%20and%20App%20Developer;Artificial%20Intelligence%20(AI);Programmer;Youtuber;Fresher%20UI/UX%20Designer;9+%20Months%20Of%20Coding%20Experience;Always%20Learning%20New%20Things&font=fira%20Code&center=true&width=600&height=50&color=00FFFF&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
 
 
-  <a href="https://github.com/Erzhemet89">
+  <a href="https://github.com/Ralfendeck25">
     <img src="contributions.svg" />
   </a>
 
@@ -32,14 +29,17 @@
 </p>  
 
 
-<a href="https://github.com/Ralfendeck25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ralfendeck25&repo=github-readme-stats&theme=shadow_green" />
-</a>
------------>
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/Ralfendeck25?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ralfendeck25&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Erzhemet89's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ralfendeck25&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Ralfendeck25's github-readme-stats">
   </a>
+
+    
   <a href="https://github.com/Ralfendeck25?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
@@ -49,17 +49,17 @@
 
 
 <p align="center">
-  🅲 🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+  🅲0🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
    </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/parispeterson89" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/parispeterson89" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://discord.com/channels/@me/1302594337401606195" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://v0-pagina-responsiva.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://fb.com/poseidonçenghiz" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/poseidonçenghiz" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/petersonchristophe" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://www.facebook.com/share/162X9dZ6UT/" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://x.com/birdmaen89?s=09" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/petersonchristophe?igsh=MThhMjVoZ3hlMnFuZw==" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/peterson-paris-750ba493" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://replit.com/@poseidonçenghiz" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://replit.com/@poseidoncenghiz" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
 <a href="https://codepen.io/Ralfendeck25" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 <a href="https://www.youtube.com/@parispeterson89" target="_blank"><img alt="" src="https://img.shields.io/badge/poseidonçenghiz%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:poseidoncenghizerzhemetmhossad@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
@@ -183,8 +183,7 @@ while alive:
 ```
 
 <hr />
-<div align="center">
-<i>❝Follow your heart and carve your own path. You are not bound by the expectations of others!<br><b> Refuse to be the person they want you to be </b>.<br>be the person you choose to be. Learn what excites you, <br><b>pursue what fulfills you, and never let anyone dictate your dreams. Prove them wrong. Rise above. Keep moving forward.</b>❞</i></div>
+
 
 
 
@@ -192,7 +191,11 @@ while alive:
 
 ![Peterson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfendeck25&show_icons=true&theme=dracula)
 
-## 📌 Project 
+ 
+
+
+##  <img src="https://img.shields.io/badge/🌍-World-blue?style=for-the-badge" alt="Earth Logo" /> 📌 Project
+
 
 
 | Project | Description | Built with |
@@ -216,3 +219,4 @@ while alive:
 
   ➟ 
   ➟ 
+  # M33T-WarmStorm ![image](https://github.com/user-attachments/assets/f7b94d90-862c-4161-b8b1-35b55d29fba4) 
