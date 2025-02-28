@@ -21,7 +21,7 @@
 
 
 <p align="center"> 
- 🆅🅸🆂🅸🆃 🆁 🅲 🆄🅽🆃<br>
+ 🆅🅸🆂🅸🆃O🆁 🅲O🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/Ralfendeck25/count.svg"/>
 
 <p align="center">
