@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://cdn.pixabay.gif" alt="GIF de programmeur" width="200"/>
-</p>
-
-
-
 
 <p align="center">
   <a href="https://github.com/Ralfendeck25/readme-typing-svg">
