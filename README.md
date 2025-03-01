@@ -55,7 +55,7 @@
 <a href="https://linkedin.com/in/peterson-paris-750ba493" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://replit.com/@poseidoncenghiz" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
 <a href="https://codepen.io/Ralfendeck25" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@parispeterson89" target="_blank"><img alt="" src="https://img.shields.io/badge/poseidonçenghiz%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@parispeterson1989" target="_blank"><img alt="" src="https://img.shields.io/badge/poseidonçenghiz%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:poseidoncenghizerzhemetmhossad@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
