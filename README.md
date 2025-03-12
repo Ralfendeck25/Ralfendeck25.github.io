@@ -229,9 +229,17 @@ while alive:
 </p>
 -->
 
-### 🚀 Linguagens Mais Usadas
+## 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfendeck25&layout=compact)
+
+
+## Contributions
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Ralfendeck25&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" style="border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 10px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
+</div>
+
 
   ➟ 
   ➟ 
