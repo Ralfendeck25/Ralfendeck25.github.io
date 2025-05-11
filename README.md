@@ -267,3 +267,26 @@ while alive:
   ➟ 
   ➟ 
   # M33T-WarmStorm ![image](https://github.com/user-attachments/assets/f7b94d90-862c-4161-b8b1-35b55d29fba4) 
+
+
+
+<table >
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Closed PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/yfosp/start-here?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/yfosp/start-here?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/yfosp/start-here?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/yfosp/start-here?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/yfosp/start-here?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
