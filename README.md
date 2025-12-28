@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Ralfendeck25/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20My%20name%20is%20Peterson!;You%20are%20very%20Welcome;I%20am%20an%20Ethical%20Hacker;Student%20of%20Computer%20Science;Full-Stack%20Dev%20and%20App%20Developer;Artificial%20Intelligence%20(AI);Programmer;Youtuber;Fresher%20UI/UX%20Designer;9+%20Months%20Of%20Coding%20Experience;Always%20Learning%20New%20Things&font=fira%20Code&center=true&width=600&height=50&color=00FFFF&vCenter=true&pause=1000&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20My%20name%20is%20Peterson!;You%20are%20very%20Welcome;I%20am%20an%20Ethical%20Hacker;Student%20of%20Computer%20Science;Full-Stack%20Dev%20and%20App%20Developer;Artificial%20Intelligence%20(AI);Programmer;Youtuber;Fresher%20UI/UX%20Designer;13+%20Months%20Of%20Coding%20Experience;Always%20Learning%20New%20Things&font=fira%20Code&center=true&width=600&height=50&color=00FFFF&vCenter=true&pause=1000&size=25" />
   </a>
 </p>
 
